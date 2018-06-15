@@ -1,0 +1,45 @@
+hash: 79435c0e58c115d9aa9be9c5727e349ee14020004f7b7dea358c45ccd8e35367
+updated: 2018-06-15T14:33:28.939461304+02:00
+imports:
+- name: github.com/aphistic/golf
+  version: 3dd8b1cba42bfeb69fd0408b7fd1c3c345b2aba6
+- name: github.com/aphistic/gomol
+  version: 9e5411a7a19b0744e84df152d0740431d225093a
+- name: github.com/aphistic/gomol-console
+  version: 9fa1742697a8bf85e5de5680b861ebfaa5cb4c1f
+- name: github.com/aphistic/gomol-gelf
+  version: 573e82a820822d1b0dd5e20a627e35b015312a7e
+- name: github.com/aphistic/gomol-json
+  version: 18c8a7fafa51e7ed125acd64e8326a704789e5ac
+- name: github.com/efritz/backoff
+  version: 0ae7996d5d12996a45b0bc675f382f303d06c09e
+- name: github.com/efritz/glock
+  version: 7e95e8b27a617359b20df661e9da0c4cbdfe081a
+- name: github.com/golang/glog
+  version: 23def4e6c14b4da8ac2ed8007337bc5eb5007998
+- name: github.com/mattn/go-colorable
+  version: efa589957cd060542a26d2dd7832fd6a6c6c3ade
+- name: github.com/mattn/go-isatty
+  version: 6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c
+- name: github.com/mgutz/ansi
+  version: 9520e82c474b0a04dd04f8a40959027271bab992
+- name: github.com/op/go-logging
+  version: 970db520ece77730c7e4724c61121037378659d9
+- name: github.com/satori/go.uuid
+  version: 36e9d2ebbde5e3f13ab2e25625fd453271d6522e
+- name: github.com/sirupsen/logrus
+  version: ea8897e79973357ba785ac2533559a6297e83c44
+- name: github.com/spaolacci/murmur3
+  version: f09979ecbc725b9e6d41a297405f65e7e8804acc
+- name: github.com/x-cray/logrus-prefixed-formatter
+  version: bb2702d423886830dee131692131d35648c382e2
+- name: golang.org/x/crypto
+  version: c3a3ad6d03f7a915c0f7e194b7152974bb73d287
+  subpackages:
+  - ssh/terminal
+- name: golang.org/x/sys
+  version: d8e400bc7db4870d786864138af681469693d18c
+  subpackages:
+  - unix
+  - windows
+testImports: []
