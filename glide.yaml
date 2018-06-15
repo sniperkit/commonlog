@@ -1,4 +1,10 @@
-package: github.com/Rican7/commonlog
+package: github.com/sniperkit/commonlog
 import:
+- package: github.com/aphistic/gomol
+- package: github.com/aphistic/gomol-console
+- package: github.com/aphistic/gomol-gelf
+- package: github.com/aphistic/gomol-json
 - package: github.com/golang/glog
 - package: github.com/op/go-logging
+- package: github.com/sirupsen/logrus
+- package: github.com/x-cray/logrus-prefixed-formatter
