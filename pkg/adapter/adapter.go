@@ -9,7 +9,7 @@
 package adapter
 
 import (
-	"github.com/Rican7/commonlog"
+	commonlog "github.com/sniperkit/commonlog/pkg"
 )
 
 /**

@@ -12,8 +12,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/Rican7/commonlog/adapter"
-	"github.com/Rican7/commonlog/level"
+	"github.com/sniperkit/commonlog/pkg/adapter"
+	"github.com/sniperkit/commonlog/pkg/level"
 )
 
 func TestNew(t *testing.T) {

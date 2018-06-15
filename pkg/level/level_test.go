@@ -6,7 +6,9 @@
 
 package level
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestAll(t *testing.T) {
 	all := All()

@@ -11,9 +11,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/Rican7/commonlog"
-	"github.com/Rican7/commonlog/adapter"
-	"github.com/Rican7/commonlog/level"
+	// internal
+	commonlog "github.com/sniperkit/commonlog/pkg"
+	adapter "github.com/sniperkit/commonlog/pkg/adapter"
+	level "github.com/sniperkit/commonlog/pkg/level"
 )
 
 /**

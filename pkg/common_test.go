@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Rican7/commonlog/level"
+	level "github.com/sniperkit/commonlog/pkg/level"
 )
 
 /**
